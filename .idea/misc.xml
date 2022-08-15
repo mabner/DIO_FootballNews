@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/@Backup_18_01_2022/dev/repo/cursos/DIO/Desafios/FootballNews/app/src/main/res/layout/activity_main.xml" value="0.1661600810536981" />
+        <entry key="..\:/@Backup_18_01_2022/dev/repo/cursos/DIO/Desafios/FootballNews/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/@Backup_18_01_2022/dev/repo/cursos/DIO/Desafios/FootballNews/app/src/main/res/layout/fragment_dashboard.xml" value="0.36666666666666664" />
+        <entry key="..\:/@Backup_18_01_2022/dev/repo/cursos/DIO/Desafios/FootballNews/app/src/main/res/layout/fragment_favourites.xml" value="0.17592592592592593" />
+        <entry key="..\:/@Backup_18_01_2022/dev/repo/cursos/DIO/Desafios/FootballNews/app/src/main/res/layout/fragment_news.xml" value="0.17592592592592593" />
+        <entry key="..\:/@Backup_18_01_2022/dev/repo/cursos/DIO/Desafios/FootballNews/app/src/main/res/layout/fragment_notifications.xml" value="0.1" />
+        <entry key="..\:/@Backup_18_01_2022/dev/repo/cursos/DIO/Desafios/FootballNews/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/@Backup_18_01_2022/dev/repo/cursos/DIO/Desafios/FootballNews/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.159" />
       </map>
     </option>
   </component>
