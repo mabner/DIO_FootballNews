@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Football News</string>
-    <string name="title_home">Home</string>
+    <string name="title_news">News</string>
     <string name="title_favourites">Favourites</string>
 </resources>
